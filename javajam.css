@@ -30,7 +30,7 @@ header{
         background-color: #D2B48C ;
         /*text-align: center;*/
         height: 150px;
-        background-image: url(Images/javajamlogo.jpg);
+        background-image: url(Images/'javajamlogo.jpg');
         background-repeat: no-repeat;
 }
 
